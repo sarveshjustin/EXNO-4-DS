@@ -24,10 +24,7 @@ The feature selection techniques used are:
 3.Embedded Method
 
 # CODING AND OUTPUT:
-```
-NAME : MUKESH.R
-REG NO : 212223240100
-```
+
 ```python
 import pandas as pd
 import numpy as np
